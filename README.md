@@ -35,7 +35,7 @@ IDEx is a high-performance, browser-based Integrated Development Environment (ID
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Suryanshu-Nabheet/IDEx.git
+   git clone https://github.com/innovatex-official/IDEx.git
    ```
 
 2. Install dependencies:
